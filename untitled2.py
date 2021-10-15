@@ -10,6 +10,6 @@ Original file is located at
 import streamlit as st
  
 st.title("mori akito 森　耀大　　")
-st.header(”TA山田”)
+st.header("TA山田")
 st.warning("がんばろう")
 
